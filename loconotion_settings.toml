@@ -1,0 +1,23 @@
+name = "notion"
+
+page = "https://longhongc.notion.site/Notion-2980ac123bad41caa33379b6f2ca7eed"
+
+theme = "light"
+
+[site]
+  [[site.meta]]
+  name = "title"
+  content = "Loconotion Test Site"
+  [[site.meta]]
+  name = "description"
+  content = "A static site generated from a Notion.so page using Loconotion"
+
+  [site.fonts]
+  site = 'Nunito'
+  navbar = ''
+  title = 'Montserrat'
+  h1 = 'Montserrat'
+  h2 = 'Montserrat'
+  h3 = 'Montserrat'
+  body = ''
+  code = ''
